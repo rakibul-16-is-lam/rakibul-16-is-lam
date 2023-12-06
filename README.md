@@ -1,5 +1,5 @@
-<img src="https://www.canva.com/design/DAF2OiUmeZg/TgKs24LchJeXCIAftCpAvQ/edit" alt="" width="400">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul-16-is-lam&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul-16-is-lam" /> </p>
+<img src="G:\My Drive\New folder (2)\rakib.png" alt="" width="400">
+
 
 <p align="left"> <a href="https://twitter.com/rakib47g" target="blank"><img src="https://img.shields.io/twitter/follow/rakib47g?logo=twitter&style=for-the-badge" alt="rakib47g" /></a> </p>
 
