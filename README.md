@@ -1,4 +1,4 @@
-<img src="G:\My Drive\New folder (2)\rakib.png" alt="" width="400">
+<img src="file:///G:/My%20Drive/New%20folder%20(2)/rakib.png" alt="" width="400">
 
 
 <p align="left"> <a href="https://twitter.com/rakib47g" target="blank"><img src="https://img.shields.io/twitter/follow/rakib47g?logo=twitter&style=for-the-badge" alt="rakib47g" /></a> </p>
