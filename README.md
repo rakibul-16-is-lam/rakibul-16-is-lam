@@ -6,4 +6,4 @@
 
 🎯 Passionate about solving real-world problems with tech — from Python & Django development to IoT and AI-driven solutions.  
 🌍 Entrepreneurial mindset with a mission to empower youth and inspire innovation.  
-
+🌱Thank you 
